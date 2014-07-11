@@ -6,7 +6,7 @@
 Summary:	Compatibility library for applications using an older version of giflib
 Name:		giflib4
 Version:	4.2.1
-Release:	7
+Release:	8
 Group:		System/Libraries
 License:	BSD like
 Url:		http://giflib.sourceforge.net/
