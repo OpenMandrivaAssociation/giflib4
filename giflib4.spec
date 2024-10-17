@@ -9,7 +9,7 @@ Version:	4.2.1
 Release:	12
 Group:		System/Libraries
 License:	BSD like
-Url:		http://giflib.sourceforge.net/
+Url:		https://giflib.sourceforge.net/
 Source0:	http://switch.dl.sourceforge.net/project/giflib/giflib-4.x/giflib-%{version}.tar.bz2
 Patch1:		giflib-4.1.6-fix-link.patch
 Patch2:		giflib-4.2.1-automake-1.13.patch
